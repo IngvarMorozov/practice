@@ -1,3 +1,7 @@
-h1{
+h1 {
     font-size: 20px;
+    color: grey
+}
+body {
+    background-color: rgb(39, 39, 39);
 }
